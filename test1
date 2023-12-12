@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virgileweb</title>
+    <!-- Vous pouvez ajouter des liens vers des feuilles de style CSS ici -->
+    <!-- <link rel="stylesheet" href="style.css"> -->
+</head>
+<body>
+
+    <header>
+        <h1>T'as vu lulu ça marche</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">À propos</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section>
+        <h1>C'est relativement vilain juste en htlm après faut ajouter un fichier cc+</h1>
+        <h2>Pour le moment :</h2>
+        <p>C'est relativement reloue à mettre en place parce que faut installer 50 truc mais bon on devrais y 
+            arriver le seul problème c'est que la page est visible que par toi sauf si tu creer un compt sur
+            github et c pas simple. bref fini pour ce soir et j'oublie pas de te faire un mail
+        </p>
+    </section>
+
+    <footer>
+        <p>Pied de page - © 2023</p>
+    </footer>
+
+</body>
+</html>
